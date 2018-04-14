@@ -4,7 +4,7 @@
 
 
 # Xcode Project Cleaner
-Shell script that cleans up xcode projects. Works for both iOS and macOS.
+Shell script that cleans up xcode project. Works for both iOS and macOS.
 
 If you have a problem running your Xcode project try solving it with just one `cleanup` terminal command!
 
