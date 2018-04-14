@@ -21,9 +21,9 @@ If you have a problem running your Xcode project try solving it with just one `c
 ## How does it work?
 Whole cleanup process is divided into 4 steps.
 
-1. Cleaning derived data
-2. Cleaning caches
-3. Reinstalling pods
-4. Cleaning build
+1. **Cleaning derived data**
+2. **Cleaning caches**
+3. **Reinstalling pods**
+4. **Cleaning build**
 
 After these steps, your Xcode project should successfully compile!
