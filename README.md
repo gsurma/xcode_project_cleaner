@@ -1,3 +1,8 @@
+<h3 align="center">
+  <img src="assets/xcode_project_cleaner_icon_web.png" width="300">
+</h3>
+
+
 # Xcode Project Cleaner
 Shell script that cleans up xcode projects. Works for both iOS and macOS.
 
@@ -20,3 +25,5 @@ Whole cleanup process is divided into 4 steps.
 2. Cleaning caches
 3. Reinstalling pods
 4. Cleaning build
+
+After these steps, your Xcode project should successfully compile!
